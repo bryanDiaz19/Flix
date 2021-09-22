@@ -44,7 +44,6 @@ Describe any challenges encountered while building the app.
 ### App Walkthrough GIF
 
 
-<img src="http://g.recordit.co/p7AKs1Ts1f.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
